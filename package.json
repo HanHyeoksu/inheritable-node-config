@@ -1,10 +1,10 @@
 {
-  "name": "config",
-  "version": "1.30.0",
+  "name": "inheritable-config",
+  "version": "1.0.0",
   "main": "./lib/config.js",
   "description": "Configuration control for production node deployments",
-  "author": "Loren West <open_source@lorenwest.com>",
-  "homepage": "http://lorenwest.github.com/node-config",
+  "author": "hshan <hyeoksu.han@gmail.com>",
+  "homepage": "https://github.com/HanHyeoksu/inheritable-node-config",
   "keywords": [
     "conf",
     "config",
@@ -39,7 +39,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "http://github.com/lorenwest/node-config.git"
+    "url": "git+https://github.com/HanHyeoksu/inheritable-node-config.git"
   },
   "engines": {
     "node": ">= 4.0.0"
