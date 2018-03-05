@@ -1,6 +1,6 @@
 {
   "name": "inheritable-config",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "main": "./lib/config.js",
   "description": "Configuration control for production node deployments",
   "author": "hshan <hyeoksu.han@gmail.com>",
